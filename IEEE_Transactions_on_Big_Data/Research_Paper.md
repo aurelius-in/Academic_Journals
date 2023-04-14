@@ -105,6 +105,30 @@ In this research paper, we proposed a distributed big data processing framework 
 
 ## References
 
-[1] A. Jungbluth, E. Pechorro, C. Albergel, and S. Mecklenburg, "The Use of Artificial Intelligence in ESA’s Climate Change Initiative," in 2023 EGU General Assembly, Vienna, Austria, Apr. 24-28, 2023, EGU23-16813, 2023. https://doi.org/10.5194/egusphere-egu23-16813.
+[1] M. A. Haq et al., "Analysis of environmental factors using AI and ML methods," Scientific Reports, vol. 12, no. 1, p. 13267, 2022.
 
-[2] S. Dineva, "Applying Artificial Intelligence (AI) for Mitigation Climate Change Consequences of the Natural Disasters," Research Journal of Ecology and Environmental Sciences, vol. 3, no. 1, pp. 1-8, Jan. 2023. Available: https://www.scipublications.com/journal/in-dex.php/rjees/article/view/343. [Accessed: Apr. 14, 2023].
+[2] C. Maduabuchi et al., "Renewable Energy Potential Estimation Using Climatic-Weather-Forecasting Machine Learning Algorithms," Energies, vol. 16, no. 4, p. 1603, 2023.
+
+[3] J. P. van der Merwe et al., "Predicting temperature and rainfall for plantation forestry in Mpumalanga, South Africa, using locally developed climate models," Agricultural and Forest Meteorology, vol. 329, p. 109275, 2023.
+
+[4] K. Liu et al., "A robust gap-filling approach for European Space Agency Climate Change Initiative (ESA CCI) soil moisture integrating satellite observations, model-driven knowledge, and spatiotemporal machine learning," Hydrology and Earth System Sciences, vol. 27, no. 2, pp. 577-598, 2023.
+
+[5] A. Jungbluth et al., "The Use of Artificial Intelligence in ESA’s Climate Change Initiative," in Copernicus Meetings, 2023, paper no. EGU23-16813.
+
+[6] A. Gopi et al., "Weather Impact on Solar Farm Performance: A Comparative Analysis of Machine Learning Techniques," Sustainability, vol. 15, no. 1, p. 439, 2023.
+
+[7] S. Dineva, "Applying Artificial Intelligence (AI) for Mitigation Climate Change Consequences of the Natural Disasters," Research Journal of Ecology and Environmental Sciences, vol. 3, no. 1, pp. 1-8, Jan. 2023. [Online]. Available: https://www.scipublications.com/journal/index.php/rjees/article/view/343. [Accessed: Apr. 14, 2023].
+
+[8] TOWARDS NET ZERO, "Opportunities and Challenges for UK and Indian Industries."
+
+[9] C. Knoble and D. Yu, "Environmental justice: An evolving concept in a dynamic era," Sustainable Development, 2023.
+
+[10] M. M. Visan and F. Mone, "Computer-Supported Smart Green-Blue Infrastructure Management," INTERNATIONAL JOURNAL OF COMPUTERS COMMUNICATIONS & CONTROL, vol. 18, no. 2, 2023.
+
+[11] D. Lagomarsino-Oneto et al., "Physics informed machine learning for wind speed prediction," Energy, vol. 000, p. 126628, 2023.
+
+[12] Z. Fang et al., "A service-oriented collaborative approach to disaster decision support by integrating geospatial resources and task chain," International Journal of Applied Earth Observation and Geoinformation, vol. 117, p. 103217, 2023.
+
+[13] S. C. Nwokolo et al., "Machine learning and analytical model hybridization to assess the impact of climate change on solar PV energy production," Physics and Chemistry of the Earth, Parts A/B/C, vol. 130, p. 103389, 2023.
+
+[14] A. Holzinger et al., "AI for life: Trends in artificial intelligence for biotechnology," New Biotechnology, vol. 74, pp. 16-24, 2023.
