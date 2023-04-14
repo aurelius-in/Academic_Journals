@@ -12,7 +12,7 @@ Previous studies have explored the use of AI/ML techniques in climate prediction
 ## Related Work
 Recent research has made significant contributions to the use of AI and ML techniques for climate modeling and prediction. Some studies have demonstrated that deep learning algorithms trained on massive datasets of climate data can predict future weather patterns with a high degree of accuracy. Additionally, the use of distributed computing and big data processing has enabled researchers to overcome scalability issues and develop more accurate climate models.
 
-One recent study by Li et al. (2021) proposed a deep neural network model based on graph convolutional networks for weather forecasting. The model was trained on a large-scale spatiotemporal dataset of climate variables and demonstrated superior performance compared to traditional forecasting methods. Another study by Wang et al. (2021) utilized a recurrent neural network-based approach to predict the occurrence of droughts in East Africa. The model was trained on a dataset consisting of climate variables and satellite imagery and achieved high accuracy in predicting drought events.
+The article by Dineva (2023) presents a comprehensive review of the latest applications of Artificial Intelligence (AI) in mitigating the consequences of climate change-induced natural disasters. The study discusses the need for innovative techniques to combat the negative impact of climate change, including remote and continuous monitoring, data collection, and the creation of models for data extrapolation and prediction. The article highlights the crucial role of AI in handling big data, calculations, and forecasts to predict natural disasters, provide timely warnings for prevention, and prepare communities for adverse changes. Dineva's study also reveals that various governments and business entities have adopted and implemented different frameworks, programs, and projects to address the negative effects of climate change. Overall, this article's findings underscore the importance of AI and its significant impact on mitigating the effects of climate change-induced natural disasters [1].
 
 In addition to these studies, there have been recent advances in the integration of diverse data sources, such as social media and remote sensing, to improve the accuracy of climate models. For instance, Liang et al. (2021) proposed a deep learning-based approach for predicting air quality using satellite imagery and meteorological data. The study demonstrated that the incorporation of satellite data improved the accuracy of the predictions significantly.
 
@@ -100,24 +100,7 @@ The research may be subject to conflicts of interest or funding biases, which co
 ## Conclusion
 
 In this research paper, we proposed a distributed big data processing framework that leverages AI/ML techniques to accurately predict weather patterns and model the impact of climate change. Our proposed framework offers a scalable and efficient solution for processing large amounts of climate data and generating accurate predictions. We used a combination of deep learning and reinforcement learning algorithms to train models on historical climate data and integrated data from various sources to create a comprehensive view of the climate. The experiments conducted using various datasets of historical climate data demonstrated the potential of our framework in improving climate modeling and prediction. Our proposed framework provides actionable insights that can help communities and governments make informed decisions about how to prepare for and respond to extreme weather events. However, the framework's accuracy is dependent on the quality and availability of the data used to train the models, and ethical considerations must be taken into account when using social media data for climate modeling.
+
 ## References
 
-[1] H. L. Tan, Y. W. Lee, C. W. Lim, Y. K. Lee, and S. K. Foo, "Climate change impacts and adaptation in cities: a review of the literature," Clim. Change, vol. 129, no. 1–2, pp. 1–15, 2015.
-
-[2] P. J. Gleckler, P. D. Sardeshmukh, and C. Bonfils, "Towards constraining climate sensitivity by linear analysis of feedback patterns in thousands of perturbed-physics GCM simulations," Clim. Dynam., vol. 38, no. 5–6, pp. 1191–1208, 2012.
-
-[3] M. Collins et al., "Long-term climate change: projections, commitments and irreversibility," in Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, T. F. Stocker et al., Eds. Cambridge, United Kingdom and New York, NY, USA: Cambridge University Press, 2013, pp. 1029–1136.
-
-[4] R. M. Tebaldi, K. Hayhoe, J. M. Arblaster, and G. A. Meehl, "Going to the extremes: an intercomparison of model-simulated historical and future changes in extreme events," Climatic Change, vol. 79, no. 3–4, pp. 185–211, 2006.
-
-[5] M. Ghil, E. Simonnet, and F. Vautard, "Perspectives on climate change and model validation," Philos. Trans. R. Soc. A Math. Phys. Eng. Sci., vol. 373, no. 2054, p. 20140454, 2015.
-
-[6] J. D. Neelin, J. Su, and D. E. Waliser, "Interpretations of the intertropical convergence zone," J. Climate, vol. 21, no. 3, pp. 590–612, 2008.
-
-[7] M. Collins, "Climate predictability on interannual to decadal time scales: the initial value problem," Clim. Dyn., vol. 27, no. 7–8, pp. 831–841, 2006.
-
-[8] J. T. Overpeck et al., "Paleoclimatic evidence for future ice-sheet instability and rapid sea-level rise," Science, vol. 311, no. 5768, pp. 1747–1750, 2006.
-
-[9] F. Wagner, R. Schwarze, and G. P. C. Weir, "Climate prediction under an ethical constraint," Environ. Res. Lett., vol. 9, no. 2, p. 024001, 2014.
-
-[10] T. M. Lenton and H. Held, "Critical slowing down as a precursor to catastrophe: detecting signals of approach to tipping points," Philos. Trans. R. Soc. A Math. Phys. Eng. Sci., vol. 370, no. 1962, p. 1185, 2012.
+[1] S. Dineva, "Applying Artificial Intelligence (AI) for Mitigation Climate Change Consequences of the Natural Disasters," Research Journal of Ecology and Environmental Sciences, vol. 3, no. 1, pp. 1-8, Jan. 2023. Available: https://www.scipublications.com/journal/in-dex.php/rjees/article/view/343. [Accessed: Apr. 14, 2023].
