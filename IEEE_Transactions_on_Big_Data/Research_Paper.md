@@ -132,3 +132,29 @@ In this research paper, we proposed a distributed big data processing framework 
 [13] S. C. Nwokolo et al., "Machine learning and analytical model hybridization to assess the impact of climate change on solar PV energy production," Physics and Chemistry of the Earth, Parts A/B/C, vol. 130, p. 103389, 2023.
 
 [14] A. Holzinger et al., "AI for life: Trends in artificial intelligence for biotechnology," New Biotechnology, vol. 74, pp. 16-24, 2023.
+
+[15] N. K. Mullani and V. A. Mali, "Artificial Intelligence and Machine Learning: Current Developments and Applications," in Proceedings of the 2021 2nd International Conference on Advances in Electronics, Computers and Communications (ICAECC), Bangalore, India, 2021, pp. 555-559.
+
+[16] Ö. Albayrak Ünal, B. Erkayman, and B. Usanmaz, "Applications of Artificial Intelligence in Inventory Management: A Systematic Review of the Literature," Archives of Computational Methods in Engineering, pp. 1-21, 2023.
+
+[17] K. Thakur, A. S. K. Pathan, and S. Ismat, "Machine Learning Technology," in Emerging ICT Technologies and Cybersecurity: From AI and ML to Other Futuristic Technologies, Cham: Springer Nature Switzerland, 2023, pp. 79-124.
+
+[18] R. Ramprashath, T. Vedhanayagan, S. Nesamani, S. Mathiyarasan, and L. Mukesh, "The Advancement of An Imperishable Method for Agriculture Production Using Seawater Based on Machine Learning Algorithm," Journal of Survey in Fisheries Sciences, vol. 10, no. 4S, pp. 1633-1654, 2023.
+
+[19] A. Mokhtar, N. Al-Ansari, W. El-Ssawy, R. Graf, P. Aghelpour, H. He, S. M. Hafez, and M. Abuarab, "Prediction of Irrigation Water Requirements for Green Beans-Based Machine Learning Algorithm Models in Arid Region," Water Resources Management, pp. 1-24, 2023.
+
+[20] S. M. Malakouti, "Utilizing time series data from 1961 to 2019 recorded around the world and machine learning to create a Global Temperature Change Prediction Model," Case Studies in Chemical and Environmental Engineering, vol. 7, p. 100312, 2023.
+
+[21] A. Abbas, D. Ekowati, F. Suhariadi, and R. M. Fenitra, "Health implications, leaders societies, and climate change: A global review," in Ecological Footprints of Climate Change: Adaptive Approaches and Sustainability, 2023, pp. 653-675.
+
+[22] M. T. Sohail, S. Mustafa, M. M. Ali, and S. Riaz, "Agricultural communities’ risk assessment and the effects of climate change: A pathway toward green productivity and sustainable development," Frontiers in Eco-Innovation and Green Productivity for Sustainable Production and Consumption, vol. 16648714, p. 123, 2023.
+
+[23] A. Dutta, E. Bouri, T. Rothovius, and G. S. Uddin, "Climate risk and green investments: New evidence," Energy, vol. 265, p. 126376, 2023.
+
+[24] P. K. Molnár, A. E. Derocher, G. W. Thiemann, and M. A. Lewis, "Predicting survival, reproduction and abundance of polar bears under climate change," Biological Conservation, vol. 143, no. 7, pp. 1612-1622, 2010.
+
+[25] P. J. Sellers et al., "Remote sensing of the land surface for studies of global change: Models—algorithms—experiments," Remote Sensing of Environment, vol. 51, no. 1, pp. 3-26, 1995.
+
+[26] Y. Luo et al., "Ecological forecasting and data assimilation in a data‐rich era," Ecological Applications, vol. 21, no. 5, pp. 1429-1442, 2011.
+
+[27] F. Cappelli, V. Costantini, and D. Consoli, "The trap of climate change-induced 'natural' disasters and inequality," Global Environmental Change, vol. 70, pp. 102329, 2021.
