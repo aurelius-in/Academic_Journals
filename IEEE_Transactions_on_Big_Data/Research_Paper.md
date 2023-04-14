@@ -18,17 +18,6 @@ Previous studies have explored the use of AI/ML techniques in climate prediction
 6. Provide actionable insights and recommendations to inform decision-making by communities, businesses, and policymakers on climate adaptation and mitigation strategies, based on the model outputs and uncertainty analysis.
 7. Identify and address potential ethical and social implications of our research, such as data privacy, data ownership, and environmental justice concerns, and develop appropriate safeguards and guidelines.
 
-
-## Methods
-To achieve our objectives, we will follow these methods:
-
-- We will use a combination of deep learning and reinforcement learning algorithms to train models on massive datasets of historical climate data.
-- We will provide more detail on the specific AI/ML algorithms and techniques used, as well as the distributed computing framework.
-- We will integrate data from various sources, including weather sensors, satellite imagery, and social media platforms, to create a comprehensive view of the climate and develop more accurate models.
-- We will evaluate the accuracy of our predictions using standard metrics and compare them with traditional forecasting methods.
-- We will provide actionable insights that can help communities and governments make informed decisions about how to prepare for and respond to extreme weather events and reduce their impact on people and the environment.
-- We will provide more insights into the limitations and potential ethical considerations of the research.
-
 ## Methods
 
 ### Data Preprocessing
