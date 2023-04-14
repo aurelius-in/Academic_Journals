@@ -12,11 +12,7 @@
 
 [6] Gopi, Ajith, Prabhakar Sharma, Kumarasamy Sudhakar, Wai Keng Ngui, Irina Kirpichnikova, and Erdem Cuce. "Weather Impact on Solar Farm Performance: A Comparative Analysis of Machine Learning Techniques." Sustainability 15, no. 1 (2023): 439.
 
-[7]
-
- "Dineva's study also reveals that various governments and business entities have adopted and implemented different frameworks, programs, and projects to address the negative effects of climate change."
- 
- [7]
+[7] S. Dineva, "Applying Artificial Intelligence (AI) for Mitigation Climate Change Consequences of the Natural Disasters," Research Journal of Ecology and Environmental Sciences, vol. 3, no. 1, pp. 1-8, Jan. 2023. Available: https://www.scipublications.com/journal/in-dex.php/rjees/article/view/343. [Accessed: Apr. 14, 2023].
  
 [8] ZERO, TOWARDS NET. "Opportunities and Challenges for UK and Indian Industries."
 
