@@ -79,7 +79,7 @@ The results of our experiments demonstrate the potential of AI/ML techniques to 
 However, the framework's accuracy is dependent on the quality and availability of the data used to train the models. Additionally, ethical considerations must be taken into account when using social media data for climate modeling. Overall, our research contributes to the growing body of work that uses AI/ML techniques to address the challenges posed by climate change.
 
 ### Limitations of the Research:
-The accuracy of climate predictions is limited by the quality and quantity of the data used for training the models. Although the proposed framework integrates various data sources, such as weather sensors, satellite imagery, and social media platforms, there may be limitations in the availability and reliability of this data.
+The accuracy of climate predictions is limited by the quality and quantity of the data used for training the models. Although the proposed framework integrates various data sources, such as weather sensors, satellite imagery, and social media platforms, there may be limitations in the availability and reliability of this data [2].
 
 The use of AI/ML techniques is not a panacea for climate change predictions, and these techniques may not always be accurate or effective in modeling complex climate systems.
 
