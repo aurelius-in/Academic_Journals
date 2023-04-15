@@ -103,56 +103,31 @@ In this research paper, we proposed a distributed big data processing framework 
 
 ## References
 
-[1] M. A. Haq et al., "Analysis of environmental factors using AI and ML methods," Scientific Reports, vol. 12, no. 1, p. 13267, 2022.
-
-[2] C. Maduabuchi et al., "Renewable Energy Potential Estimation Using Climatic-Weather-Forecasting Machine Learning Algorithms," Energies, vol. 16, no. 4, p. 1603, 2023.
-
-[3] J. P. van der Merwe et al., "Predicting temperature and rainfall for plantation forestry in Mpumalanga, South Africa, using locally developed climate models," Agricultural and Forest Meteorology, vol. 329, p. 109275, 2023.
-
-[4] K. Liu et al., "A robust gap-filling approach for European Space Agency Climate Change Initiative (ESA CCI) soil moisture integrating satellite observations, model-driven knowledge, and spatiotemporal machine learning," Hydrology and Earth System Sciences, vol. 27, no. 2, pp. 577-598, 2023.
-
-[5] A. Jungbluth et al., "The Use of Artificial Intelligence in ESA’s Climate Change Initiative," in Copernicus Meetings, 2023, paper no. EGU23-16813.
-
-[6] A. Gopi et al., "Weather Impact on Solar Farm Performance: A Comparative Analysis of Machine Learning Techniques," Sustainability, vol. 15, no. 1, p. 439, 2023.
-
-[7] S. Dineva, "Applying Artificial Intelligence (AI) for Mitigation Climate Change Consequences of the Natural Disasters," Research Journal of Ecology and Environmental Sciences, vol. 3, no. 1, pp. 1-8, Jan. 2023. [Online]. Available: https://www.scipublications.com/journal/index.php/rjees/article/view/343. [Accessed: Apr. 14, 2023].
-
-[8] TOWARDS NET ZERO, "Opportunities and Challenges for UK and Indian Industries."
-
-[9] C. Knoble and D. Yu, "Environmental justice: An evolving concept in a dynamic era," Sustainable Development, 2023.
-
-[10] M. M. Visan and F. Mone, "Computer-Supported Smart Green-Blue Infrastructure Management," INTERNATIONAL JOURNAL OF COMPUTERS COMMUNICATIONS & CONTROL, vol. 18, no. 2, 2023.
-
-[11] D. Lagomarsino-Oneto et al., "Physics informed machine learning for wind speed prediction," Energy, vol. 000, p. 126628, 2023.
-
-[12] Z. Fang et al., "A service-oriented collaborative approach to disaster decision support by integrating geospatial resources and task chain," International Journal of Applied Earth Observation and Geoinformation, vol. 117, p. 103217, 2023.
-
-[13] S. C. Nwokolo et al., "Machine learning and analytical model hybridization to assess the impact of climate change on solar PV energy production," Physics and Chemistry of the Earth, Parts A/B/C, vol. 130, p. 103389, 2023.
-
-[14] A. Holzinger et al., "AI for life: Trends in artificial intelligence for biotechnology," New Biotechnology, vol. 74, pp. 16-24, 2023.
-
-[15] N. K. Mullani and V. A. Mali, "Artificial Intelligence and Machine Learning: Current Developments and Applications," in Proceedings of the 2021 2nd International Conference on Advances in Electronics, Computers and Communications (ICAECC), Bangalore, India, 2021, pp. 555-559.
-
-[16] Ö. Albayrak Ünal, B. Erkayman, and B. Usanmaz, "Applications of Artificial Intelligence in Inventory Management: A Systematic Review of the Literature," Archives of Computational Methods in Engineering, pp. 1-21, 2023.
-
-[17] K. Thakur, A. S. K. Pathan, and S. Ismat, "Machine Learning Technology," in Emerging ICT Technologies and Cybersecurity: From AI and ML to Other Futuristic Technologies, Cham: Springer Nature Switzerland, 2023, pp. 79-124.
-
-[18] R. Ramprashath, T. Vedhanayagan, S. Nesamani, S. Mathiyarasan, and L. Mukesh, "The Advancement of An Imperishable Method for Agriculture Production Using Seawater Based on Machine Learning Algorithm," Journal of Survey in Fisheries Sciences, vol. 10, no. 4S, pp. 1633-1654, 2023.
-
-[19] A. Mokhtar, N. Al-Ansari, W. El-Ssawy, R. Graf, P. Aghelpour, H. He, S. M. Hafez, and M. Abuarab, "Prediction of Irrigation Water Requirements for Green Beans-Based Machine Learning Algorithm Models in Arid Region," Water Resources Management, pp. 1-24, 2023.
-
-[20] S. M. Malakouti, "Utilizing time series data from 1961 to 2019 recorded around the world and machine learning to create a Global Temperature Change Prediction Model," Case Studies in Chemical and Environmental Engineering, vol. 7, p. 100312, 2023.
-
-[21] A. Abbas, D. Ekowati, F. Suhariadi, and R. M. Fenitra, "Health implications, leaders societies, and climate change: A global review," in Ecological Footprints of Climate Change: Adaptive Approaches and Sustainability, 2023, pp. 653-675.
-
-[22] M. T. Sohail, S. Mustafa, M. M. Ali, and S. Riaz, "Agricultural communities’ risk assessment and the effects of climate change: A pathway toward green productivity and sustainable development," Frontiers in Eco-Innovation and Green Productivity for Sustainable Production and Consumption, vol. 16648714, p. 123, 2023.
-
-[23] A. Dutta, E. Bouri, T. Rothovius, and G. S. Uddin, "Climate risk and green investments: New evidence," Energy, vol. 265, p. 126376, 2023.
-
-[24] P. K. Molnár, A. E. Derocher, G. W. Thiemann, and M. A. Lewis, "Predicting survival, reproduction and abundance of polar bears under climate change," Biological Conservation, vol. 143, no. 7, pp. 1612-1622, 2010.
-
-[25] P. J. Sellers et al., "Remote sensing of the land surface for studies of global change: Models—algorithms—experiments," Remote Sensing of Environment, vol. 51, no. 1, pp. 3-26, 1995.
-
-[26] Y. Luo et al., "Ecological forecasting and data assimilation in a data‐rich era," Ecological Applications, vol. 21, no. 5, pp. 1429-1442, 2011.
-
-[27] F. Cappelli, V. Costantini, and D. Consoli, "The trap of climate change-induced 'natural' disasters and inequality," Global Environmental Change, vol. 70, pp. 102329, 2021.
+[1] M. M. Visan and F. Mone, "Computer-Supported Smart Green-Blue Infrastructure Management," INTERNATIONAL JOURNAL OF COMPUTERS COMMUNICATIONS & CONTROL, vol. 18, no. 2, 2023.
+[2] D. Lagomarsino-Oneto et al., "Physics informed machine learning for wind speed prediction," Energy, vol. 000, p. 126628, 2023.
+[3] Z. Fang et al., "A service-oriented collaborative approach to disaster decision support by integrating geospatial resources and task chain," International Journal of Applied Earth Observation and Geoinformation, vol. 117, p. 103217, 2023.
+[4] S. C. Nwokolo et al., "Machine learning and analytical model hybridization to assess the impact of climate change on solar PV energy production," Physics and Chemistry of the Earth, Parts A/B/C, vol. 130, p. 103389, 2023.
+[5] A. Holzinger et al., "AI for life: Trends in artificial intelligence for biotechnology," New Biotechnology, vol. 74, pp. 16-24, 2023.
+[6] M. A. Haq et al., "Analysis of environmental factors using AI and ML methods," Scientific Reports, vol. 12, no. 1, p. 13267, 2022.
+[7] R. Ramprashath, T. Vedhanayagan, S. Nesamani, S. Mathiyarasan, and L. Mukesh, "The Advancement of An Imperishable Method for Agriculture Production Using Seawater Based on Machine Learning Algorithm," Journal of Survey in Fisheries Sciences, vol. 10, no. 4S, pp. 1633-1654, 2023.
+[8] A. Mokhtar, N. Al-Ansari, W. El-Ssawy, R. Graf, P. Aghelpour, H. He, S. M. Hafez, and M. Abuarab, "Prediction of Irrigation Water Requirements for Green Beans-Based Machine Learning Algorithm Models in Arid Region," Water Resources Management, pp. 1-24, 2023.
+[9] S. M. Malakouti, "Utilizing time series data from 1961 to 2019 recorded around the world and machine learning to create a Global Temperature Change Prediction Model," Case Studies in Chemical and Environmental Engineering, vol. 7, p. 100312, 2023.
+[10] J. P. van der Merwe et al., "Predicting temperature and rainfall for plantation forestry in Mpumalanga, South Africa, using locally developed climate models," Agricultural and Forest Meteorology, vol. 329, p. 109275, 2023.
+[11] N. K. Mullani and V. A. Mali, "Artificial Intelligence and Machine Learning: Current Developments and Applications," in Proceedings of the 2021 2nd International Conference on Advances in Electronics, Computers and Communications (ICAECC), Bangalore, India, 2021, pp. 555-559.
+[12] Ö. Albayrak Ünal, B. Erkayman, and B. Usanmaz, "Applications of Artificial Intelligence in Inventory Management: A Systematic Review of the Literature," Archives of Computational Methods in Engineering, pp. 1-21, 2023.
+[13] K. Thakur, A. S. K. Pathan, and S. Ismat, "Machine Learning Technology," in Emerging ICT Technologies and Cybersecurity: From AI and ML to Other Futuristic Technologies, Cham: Springer Nature Switzerland, 2023, pp. 79-124.
+[14] K. Liu et al., "A robust gap-filling approach for European Space Agency Climate Change Initiative (ESA CCI) soil moisture integrating satellite observations, model-driven knowledge, and spatiotemporal machine learning," Hydrology and Earth System Sciences, vol. 27, no. 2, pp. 577-598, 2023.
+[15] A. Jungbluth et al., "The Use of Artificial Intelligence in ESA’s Climate Change Initiative," in Copernicus Meetings, 2023, paper no. EGU23-16813.
+[16] S. Dineva, "Applying Artificial Intelligence (AI) for Mitigation Climate Change Consequences of the Natural Disasters," Research Journal of Ecology and Environmental Sciences, vol. 3, no. 1, pp. 1-8, Jan. 2023.
+[17] A. Abbas, D. Ekowati, F. Suhariadi, and R. M. Fenitra, "Health implications, leaders societies, and climate change: A global review," in Ecological Footprints of Climate Change: Adaptive Approaches and Sustainability, 2023, pp. 653-675.
+[18] M. T. Sohail, S. Mustafa, M. M. Ali, and S. Riaz, "Agricultural communities’ risk assessment and the effects of climate change: A pathway toward green productivity and sustainable development," Frontiers in Eco-Innovation and Green Productivity for Sustainable Production and Consumption, vol. 16648714, p. 123, 2023.
+[19] A. Dutta, E. Bouri, T. Rothovius, and G. S. Uddin, "Climate risk and green investments: New evidence," Energy, vol. 265, p. 126376, 2023.
+[20] P. K. Molnár, A. E. Derocher, G. W. Thiemann, and M. A. Lewis, "Predicting survival, reproduction and abundance of polar bears under climate change," Biological Conservation, vol. 143, no. 7, pp. 1612-1622, 2010.
+[21] P. J. Sellers et al., "Remote sensing of the land surface for studies of global change: Models—algorithms—experiments," Remote Sensing of Environment, vol. 51, no. 1, pp. 3-26, 1995.
+[22] Y. Luo et al., "Ecological forecasting and data assimilation in a data‐rich era," Ecological Applications, vol. 21, no. 5, pp. 1429-1442, 2011.
+[23] F. Cappelli, V. Costantini, and D. Consoli, "The trap of climate change-induced 'natural' disasters and inequality," Global Environmental Change, vol. 70, pp. 102329, 2021.
+[24] A. Gopi et al., "Weather Impact on Solar Farm Performance: A Comparative Analysis of Machine Learning Techniques," Sustainability, vol. 15, no. 1, p. 439, 2023.
+[25] TOWARDS NET ZERO, "Opportunities and Challenges for UK and Indian Industries."
+[26] C. Knoble and D. Yu, "Environmental justice: An evolving concept in a dynamic era," Sustainable Development, 2023.
+[27] C. Maduabuchi et al., "Renewable Energy Potential Estimation Using Climatic-Weather-Forecasting Machine Learning Algorithms," Energies, vol. 16, no. 4, p. 1603, 2023.
+![image](https://user-images.githubusercontent.com/89275354/232184085-e3f3d28a-b7d3-4bf5-b599-279aec07a9c0.png)
